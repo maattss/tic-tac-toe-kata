@@ -1,1 +1,1 @@
-Tic Tac Toe kata
+# Tic Tac Toe kata
